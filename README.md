@@ -1,1 +1,2 @@
-# Simple-counter-program
+# Learning JS
+Simple-counter-program
